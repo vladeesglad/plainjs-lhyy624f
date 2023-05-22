@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vladeesglad.plainjs-lhyy624f",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve pR5YYp0PoetjRf5JlRG3 --open"
+  }
+}
